@@ -21,7 +21,7 @@
 
 - 👾 Indie game developer focused on **2D game design**
 - 🧠 Combining **coding + art** for fun, creative, and polished games
-- ✏️ Ollustrate my game with anothers artists
+- ✏️ Illustrate my game with anothers artists
 - 🔍 Looking for opportunities in game development teams and creative tech
 
 ---
