@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I’m <strong>José André</strong> 🎮🕹️</h1>
+<h1 align="center">Hey, I’m <strong>André Neto</strong> 🎮🕹️</h1>
 
 <p align="center">
   🎨 Game developer & digital artist passionate about creating immersive 2D experiences<br>
