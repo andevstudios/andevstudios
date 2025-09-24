@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,angular,postgresql,mysql,java,figma,cs,gamemakerstudio,vue&perline=6" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,php,angular,postgresql,mysql,java,figma,cs,unity,gamemakerstudio,vue&perline=6" alt="My Skills" />
   </a>
 </p>
 
